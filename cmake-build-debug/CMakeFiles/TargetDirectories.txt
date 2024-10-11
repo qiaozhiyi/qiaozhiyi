@@ -1,0 +1,3 @@
+/Users/yaozhiyi/CLionProjects/qiaozhiyi/cmake-build-debug/CMakeFiles/qiaozhiyi.dir
+/Users/yaozhiyi/CLionProjects/qiaozhiyi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yaozhiyi/CLionProjects/qiaozhiyi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
